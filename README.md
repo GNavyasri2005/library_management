@@ -28,8 +28,19 @@
 **Step 7:**<br>
         7.Implement library management system<br>
 
-        
+#intialize repository
 
+git init
+git add .
+git commit -m "message"
+git branch -M main
+git remote add origin <repositorylink>.git
+git push -u origin main
+
+-Add new changes
+git add .
+git commit -m "message"
+git push -u origin main
 
 
 
